@@ -2,7 +2,7 @@
 
 #### 1. chmod ####
 ```
-chmod 777 data/ -R
+chmod 777 * -R
 
 ```
 
